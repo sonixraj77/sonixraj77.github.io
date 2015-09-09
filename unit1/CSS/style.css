@@ -1,26 +1,29 @@
-body 
-{background: images/background flower image.jpeg;
+* { margin:0; padding:0; box-sizing:border-box; }
+body {
+ background: ../images/backgroundflowerimage.jpg;
  text-align: center;
+ font-size:16px;
 }
-
-h1,h3
-{color: blue;}
-
-hr
-{width: 400px;
+h1,h3 {
+ color: blue;
+}
+h2 {
+ font-weight: normal;
+ font-size: 1.5em;
+}
+hr {
+ width: 400px;
  color: black;
 }
-
-h2
-{ font-weight: normal;
-  font-size: 15px; }
-
-
-p
-{color: red;}
-Ul { text-align: left;
-     color: #ff00ff;}
-
-a
-{text-align: left;}     
+p {
+ color: red;
+}
+ul { 
+ text-align: left;
+ color: #ff00ff;
+ padding-left:1.25em;
+}
+a {
+ text-align: left;
+}
 
