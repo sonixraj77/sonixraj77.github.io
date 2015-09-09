@@ -3,6 +3,8 @@ body {
  background: ../images/backgroundflowerimage.jpg;
  text-align: center;
  font-size:16px;
+ background-size:cover;
+ background-repeat: no-repeat;
 }
 h1,h3 {
  color: blue;
