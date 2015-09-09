@@ -1,9 +1,26 @@
 body 
-{background-color: yellow;}
+{background: images/background flower image.jpeg;
+ text-align: center;
+}
 
 h1,h3
 {color: blue;}
 
+hr
+{width: 400px;
+ color: black;
+}
+
+h2
+{ font-weight: normal;
+  font-size: 15px; }
+
+
 p
 {color: red;}
+Ul { text-align: left;
+     color: #ff00ff;}
+
+a
+{text-align: left;}     
 
