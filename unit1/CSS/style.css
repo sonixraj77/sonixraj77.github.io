@@ -1,20 +1,20 @@
-* { margin:0; padding:0; box-sizing:border-box; }
+* { margin:2; padding:0; box-sizing:border-box; }
 body {
- background: ../images/backgroundflowerimage.jpg;
+ background: url("../images/backgroundflowersimage.jpg");
+ background-size: cover;
  text-align: center;
  font-size:16px;
- background-size:cover;
- background-repeat: no-repeat;
 }
 h1,h3 {
- color: blue;
+ color: #1F0761;
 }
 h2 {
+ color: #1F0761;
  font-weight: normal;
  font-size: 1.5em;
 }
 hr {
- width: 400px;
+ width: 800px;
  color: black;
 }
 p {
@@ -22,8 +22,8 @@ p {
 }
 ul { 
  text-align: left;
- color: #ff00ff;
- padding-left:1.25em;
+ color: #1F0761;
+ padding-left:1.5em;
 }
 a {
  text-align: left;
