@@ -4,14 +4,19 @@ body {
  background-size: cover;
  text-align: center;
  font-size:16px;
+ font-family: 'Noto Sans', sans-serif;
 }
-h1,h3 {
- color: #1F0761;
+h1 {
+ color: #3F660b;
+ font-family: 'Noto Sans', sans-serif;
+ font-size: 3em;
+ font-weight: 200;
 }
 h2 {
- color: #1F0761;
- font-weight: normal;
+ color: #3F660b;
+ font-family: 'Noto Sans', sans-serif;
  font-size: 1.5em;
+ font-weight: 100;
 }
 hr {
  width: 800px;
@@ -22,10 +27,10 @@ p {
 }
 ul { 
  text-align: left;
- color: #1F0761;
+ color: #3F660b;
  padding-left:1.5em;
 }
-a {
+p {
  text-align: left;
 }
 
