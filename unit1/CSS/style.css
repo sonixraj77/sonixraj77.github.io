@@ -1,36 +1,43 @@
-* { margin:2; padding:0; box-sizing:border-box; }
+* { margin:0; padding:0; box-sizing:border-box; }
 body {
- background: url("../images/backgroundflowersimage.jpg");
- background-size: cover;
- text-align: center;
- font-size:16px;
- font-family: 'Noto Sans', sans-serif;
+	background: url("../images/backgroundflowersimage.jpg");
+	background-size: cover;
+	text-align: center;
+	font-size:16px;
+	font-family:arial, helvetica, sans-serif;
 }
 h1 {
- color: #3F660b;
- font-family: 'Noto Sans', sans-serif;
- font-size: 3em;
- font-weight: 200;
+	color: #041730;
+	font-family: 'Gloria Hallelujah',cursive;
+	font-size: 2em;
 }
+
 h2 {
- color: #3F660b;
- font-family: 'Noto Sans', sans-serif;
- font-size: 1.5em;
- font-weight: 100;
+	color: #041730;
+	font-size: 1.5em;
+	font-weight: 100;
 }
+
 hr {
- width: 800px;
- color: black;
+	width: 800px;
+	color: black;
 }
+
 p {
- color: red;
+	color: red;
 }
+
 ul { 
- text-align: left;
- color: #3F660b;
- padding-left:1.5em;
+	text-align: left;
+	color: #041730;
+	padding-left:1.5em;
 }
+
 p {
- text-align: left;
+	text-align: left;
+}
+
+a {
+	color: #041730;
 }
 
