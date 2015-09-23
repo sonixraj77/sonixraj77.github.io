@@ -1,0 +1,43 @@
+* { margin:0; padding:0; box-sizing:border-box; }
+
+body {
+	background: black;
+	text-align: center;
+	font-size:16px;
+	font-family:arial, helvetica, sans-serif;
+}
+
+h1 {
+	color: white;
+	font-family:'Oswald', sans-serif;
+	font-size: 2em;
+}
+
+h2 {
+	color: white;
+	text-align: left;
+	font-size: 1.5em;
+}
+
+h4 {
+	color: white;
+	text-align: left;
+	font-size: 1em;
+}
+.blogpost {
+	font-family: lorem ipsum, serif;
+}
+.blogposttitle {
+	font-family: lorem, serif;
+	border-bottom: 2;
+}
+
+p {
+	color: white;
+	font-size: 1em
+}
+
+a {
+	color: red;
+	font-size: 1.5em
+}
