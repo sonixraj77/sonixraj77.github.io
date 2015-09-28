@@ -37,7 +37,25 @@ p {
 	font-size: 1em
 }
 
-a {
-	color: red;
-	font-size: 1.5em
+nav {
+	background-color: #8A8175;
+	font-family: Arial, sans-serif;
 }
+
+a  {
+	background-color: #000000;
+	font-size: 1.5em;
+	color: red;
+	text-decoration: none;
+	text-align: left;
+	display: block;
+	padding: 10px
+	width:100px;
+}
+
+a:hover{
+	background-color: #8A8175;
+	width: 100px;
+}
+
+
