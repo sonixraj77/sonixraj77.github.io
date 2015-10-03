@@ -36,8 +36,10 @@ img {
 
 .gallery {
 	float: left;
+	background-color: #787565;
 	width: 100px;
 	height: 100px;
+	padding: .5em 1em;
 	margin: 1em;
 }
 
@@ -45,7 +47,25 @@ p {
 	font-family: 'Oswald', sans-serif;
 }
 
-.photoboothblog {
-	background-color:#FF07E1;
-	border: 2em .5em;
+div {
+	font-size: 1em;
+	width: 50%
+	display:inline-block;
 }
+
+#photoboothblog {
+	float: left;
+	background-color:#787565;
+	border: 2em .5em;
+	padding: .5em 1em;
+	margin: 2em;
+}
+
+#beyondbrunchblog {
+	float: right;
+	background-color: #787565;
+	border: 2em .5em;
+	padding: .5em 1em;
+	margin: 2em;
+}
+
