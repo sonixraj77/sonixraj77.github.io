@@ -1,8 +1,8 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 
 body {
-	background: black;
-	color:#eee;
+	background:#383530;
+	color:#EDDFC9;
 	font-size:16px;
 	font-family:arial, helvetica, sans-serif;
 }
@@ -21,17 +21,31 @@ h4 {
 	font-size: 1em;
 }
 a {
-	border:2px solid red;
 	font-size: 1.5em;
 	color: red;
 	text-decoration: none;
 	display: inline-block;
-	margin:0 1em;
-	padding: .5em 1em;
+	margin:0 .5em;
+	padding: .5em 0em;
 }
+
 img {
-	float:left;
 	padding:.1em;
 	width:33.33%;
 }
 
+.gallery {
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin: 1em;
+}
+
+p {
+	font-family: 'Oswald', sans-serif;
+}
+
+.photoboothblog {
+	background-color:#FF07E1;
+	border: 2em .5em;
+}
