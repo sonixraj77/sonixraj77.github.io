@@ -1,20 +1,19 @@
 * { margin:0; padding:0; box-sizing:border-box; }
-
 body {
 	background:#383530;
 	color:#EDDFC9;
 	font-size:16px;
-	font-family:arial, helvetica, sans-serif;
+	font-family: 'Oswald', sans-serif;
 }
 nav {
 }
 h1 {
-	font-family:'Oswald', sans-serif;
 	font-size: 2em;
 }
 
 h2 {
 	font-size: 1.5em;
+	font-family:arial, helvetica, sans-serif;
 }
 
 h4 {
@@ -22,6 +21,7 @@ h4 {
 }
 a {
 	font-size: 1.5em;
+	font-family:arial, helvetica, sans-serif;
 	color: #FFC520;
 	text-decoration: none;
 	display: inline-block;
@@ -33,26 +33,20 @@ img {
 	padding:.1em;
 	width:33.33%;
 }
-
-.gallery {
-	float: left;
-	background-color: #787565;
-	width: 100px;
-	height: 100px;
-	padding: .5em 1em;
-	margin: 1em;
-}
-
 p {
-	font-family: 'Oswald', sans-serif;
+	
 }
-
-div {
-	font-size: 1em;
-	width: 50%
-	display:inline-block;
+#gallery {
+	background-color: #787565;
 }
-
+#gallery a {
+	display:block;
+	padding:.5em;
+	width:33.33%;
+}
+#gallery img {
+	width:100%;
+}
 #photoboothblog {
 	float: left;
 	background-color:#787565;
