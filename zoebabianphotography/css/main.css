@@ -46,9 +46,8 @@ p {
 }
 #gallery img {
 	width:100%;
-}
+
 #photoboothblog {
-	float: left;
 	background-color:#787565;
 	border: 2em .5em;
 	padding: .5em 1em;
