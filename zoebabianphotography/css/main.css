@@ -22,30 +22,33 @@ h4 {
 a {
 	font-size: 1.5em;
 	font-family:arial, helvetica, sans-serif;
-	color: #FFC520;
+	color: #FFC420;
 	text-decoration: none;
 	display: inline-block;
 	margin:0 .5em;
 	padding: .5em 0em;
 }
 
-img {
-	padding:.1em;
-	width:33.33%;
-}
-p {
-	
-}
 #gallery {
-	background-color: #787565;
+	background-color:#787565; 
 }
 #gallery a {
-	display:block;
-	padding:.5em;
-	width:33.33%;
+	float: left;
 }
 #gallery img {
-	width:100%;
+	width: 100%;
+}
+
+.clearfix:after {
+	visibility: hidden;
+	display: block;
+	font-size: 0;
+	content: "";
+	clear: both;
+	height: 0;
+}
+
+
 
 #photoboothblog {
 	background-color:#787565;
