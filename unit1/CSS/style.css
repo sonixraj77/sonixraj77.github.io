@@ -20,6 +20,7 @@ h2 {
 }
 
 hr {
+	text-align: center;
 	width: 800px;
 	color: black;
 }
