@@ -14,8 +14,9 @@ h1 {
 
 h2 {
 	color: #041730;
+	font-family:'Gloria Hallelujah',cursive; 
 	font-size: 1.5em;
-	font-weight: 100;
+	font-weight: 2em;
 }
 
 hr {
@@ -28,7 +29,8 @@ p {
 }
 
 ul { 
-	text-align: left;
+	text-align: center;
+	font-family:'Gloria Hallelujah',cursive;
 	color: #041730;
 	padding-left:1.5em;
 }
@@ -38,6 +40,26 @@ p {
 }
 
 a {
+	text-align: center;
 	color: #041730;
+	font-family:'Gloria Hallelujah',cursive;
+	font-weight: 2em;
+	text-decoration: none;
+	display:inline-block;
+	margin:0 .5em;
+	padding: .5em 0em;
+
 }
 
+@media only screen and (max-width: 768px) {
+
+	h1,h2 {
+		text-align: center;
+	}
+
+	nav {
+		display: block;
+		text-align: center;
+		margin: 0;
+	}
+}
