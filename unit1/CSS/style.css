@@ -7,9 +7,10 @@ body {
 	font-family:arial, helvetica, sans-serif;
 }
 h1 {
-	color: #041730;
+	color: #041530;
 	font-family: 'Gloria Hallelujah',cursive;
 	font-size: 2em;
+	border-bottom: medium solid black;
 }
 
 h2 {
@@ -47,7 +48,8 @@ a {
 	text-decoration: none;
 	display:inline-block;
 	margin:0 .5em;
-	padding: .5em 0em;
+	padding: 0em 0em;
+	border-bottom: 1px solid black;
 
 }
 
