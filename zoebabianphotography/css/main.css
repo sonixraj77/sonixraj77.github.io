@@ -51,18 +51,21 @@ a {
 
 
 #photoboothblog {
+	float: none;
 	background-color:#787565;
 	border: 2em .5em;
 	padding: .5em 1em;
 	margin: 2em;
+	width: 100%;
 }
 
 #beyondbrunchblog {
-	float: right;
+	float: none;
 	background-color: #787565;
 	border: 2em .5em;
 	padding: .5em 1em;
 	margin: 2em;
+	width: 100%;
 }
 
 @media only screen and (max-width: 768px) {
