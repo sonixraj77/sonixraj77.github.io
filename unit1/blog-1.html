@@ -1,25 +1,43 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>gallery</title>
+	<title>Raising my spirited kids</title>
 	<link href='https://fonts.googleapis.com/css?family=Gloria+Hallelujah' rel='stylesheet' type='text/css'>
+	<link href='https://fonts.googleapis.com/css?family=Philosopher' rel='stylesheet' type='text/css'>
 	<link rel="stylesheet" type="text/css" href="CSS/style.css">
+	<link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+	<!-- fancybox -->
+	<script type="text/javascript" src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript" src="fancybox/lib/jquery.mousewheel-3.0.6.pack.js"></script>
+	<link rel="stylesheet" href="fancybox/source/jquery.fancybox.css?v=2.1.5" type="text/css" media="screen" />
+	<script type="text/javascript" src="fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+	<meta name="viewport" content="width=device-width, initialscale=1">
 </head>
-
 <body>
-<header>
+	<header>
 		<h1>Raising My Spirited Kids</h1>
-		<hr>
 		<h2> This is a site about raising my spirited kids by Sonia Bhatia </h>
-		<br>
-		<img src="images/babytoysimage.jpg" alt="picture of baby blocks" title="A picture of baby blocks" width="150" height="75">
 		
-		<nav>
+	<nav>
 			<a href="index.html">Home</a>
 			<a href="about-1.html">About</a>
 			<a href="gallery-1.html">Gallery</a>
 			<a href="blog-1.html">Blog</a>
-		</nav>
+	</nav>
 	</header>
-	</body>
+
+	<div class="description" id="blog">
+	<h2>Talking to young kids</h2>
+	<a href= "images/talkingtochildrenimage.jpg" class="fancybox" rel="group"><img src= "images/talkingtochildrenimage.jpg" alt= "image of talking to a child" title= "image of talking to a child"></a>
+	<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin neque mauris, accumsan vel tincidunt eu, cursus iaculis nunc. Aliquam condimentum suscipit mollis. Etiam ut nisl eu augue mattis tristique ultricies non nunc. Nunc et pellentesque velit, volutpat suscipit lacus. In porta dolor ultrices metus tempus, sed finibus velit volutpat. Quisque cursus imperdiet lacus, ut vestibulum nisi. Donec porta aliquam dolor non consectetur. Proin cursus neque vitae nulla viverra, sed feugiat ex interdum. Morbi porttitor urna at posuere ornare. Aenean non urna urna. Suspendisse nec risus semper, varius neque ac, iaculis nulla. Donec nisi metus, venenatis eget magna eu, mattis interdum mi. Cras tempus purus dui, sit amet congue enim ultrices eget. Fusce fringilla augue et augue lacinia, at vulputate nunc sodales. Aenean interdum tellus vel mi aliquam tempus. </p>
+	</div>
+
+<footer>
+<a href="mailto:sonixraj77@gmail.com">Contact Us: sonixraj77@gmail.com</a>
+</footer>
+<script type="text/javascript">
+		$(document).ready(function() {
+			$(".fancybox").fancybox();
+		});
+	</script>
 </html>
