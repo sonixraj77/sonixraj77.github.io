@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"font",
+				"font-style"
+			],
+			[
 				"t",
 				"type	Attr"
 			],
@@ -60,10 +72,6 @@
 				"text-align"
 			],
 			[
-				"i",
-				"img	Tag"
-			],
-			[
 				"s",
 				"sum"
 			],
@@ -74,10 +82,6 @@
 			[
 				"in",
 				"input"
-			],
-			[
-				"font",
-				"font-weight"
 			],
 			[
 				"bac",
@@ -140,10 +144,6 @@
 				"font-size"
 			],
 			[
-				"fon",
-				"font-size"
-			],
-			[
 				"head",
 				"header	Tag"
 			],
@@ -175,7 +175,7 @@
 			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Tradecraft Pre-interview assignments/assignment2.html",
 			"settings":
 			{
-				"buffer_size": 5058,
+				"buffer_size": 5043,
 				"line_ending": "Windows"
 			}
 		},
@@ -191,7 +191,7 @@
 			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Tradecraft Pre-interview assignments/assignment1.html",
 			"settings":
 			{
-				"buffer_size": 4691,
+				"buffer_size": 7985,
 				"line_ending": "Windows"
 			}
 		},
@@ -199,7 +199,7 @@
 			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Tradecraft Pre-interview assignments/CSS/style.css",
 			"settings":
 			{
-				"buffer_size": 2491,
+				"buffer_size": 2572,
 				"line_ending": "Windows"
 			}
 		}
@@ -329,15 +329,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5058,
+						"buffer_size": 5043,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2925,
-								2925
+								5043,
+								5043
 							]
 						],
 						"settings":
@@ -345,10 +345,10 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 806.0,
+						"translation.y": 1506.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -377,7 +377,7 @@
 						"translation.y": 46.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -386,15 +386,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 4691,
+						"buffer_size": 7985,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4446,
-								4446
+								2433,
+								2433
 							]
 						],
 						"settings":
@@ -402,7 +402,7 @@
 							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1026.0,
+						"translation.y": 534.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -414,15 +414,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2491,
+						"buffer_size": 2572,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1708,
-								1708
+								2394,
+								2394
 							]
 						],
 						"settings":
@@ -431,10 +431,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1980.0,
+						"translation.y": 2546.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 2,
 					"type": "text"
 				}
 			]
