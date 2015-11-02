@@ -116,6 +116,35 @@ p {
 	color: #192E7A;
 }
 
+#writeupassignment1  {
+	background-color: #909191;
+	color: white;
+	text-align: left;
+	margin-left: 6em;
+	margin-right: 6em;
+	padding-right: 2em;
+	padding-left: 2em;
+	padding-top: .5em;
+	padding-bottom: .5em;
+}
+
+#writeupassignment1 ol {
+	line-height: 2em;
+	padding-top: 2em;
+	padding-bottom: 2em;
+	padding-left: 2em;
+	color: #192E7A;
+}
+
+#quotes {
+	font-style: italic;
+	font-weight: bold;
+}
+
+img {
+	margin-top: 1.5em;
+}
+
 
 
 @media only screen and (max-width: 500px) {
