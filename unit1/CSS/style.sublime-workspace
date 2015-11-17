@@ -171,7 +171,7 @@
 			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/index.html",
 			"settings":
 			{
-				"buffer_size": 1746,
+				"buffer_size": 1894,
 				"line_ending": "Windows"
 			}
 		},
@@ -179,7 +179,7 @@
 			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/uxdesign.html",
 			"settings":
 			{
-				"buffer_size": 8957,
+				"buffer_size": 9103,
 				"line_ending": "Windows"
 			}
 		},
@@ -292,7 +292,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
@@ -301,15 +301,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1746,
+						"buffer_size": 1894,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1633,
-								1633
+								1510,
+								1510
 							]
 						],
 						"settings":
@@ -320,7 +320,7 @@
 						"translation.y": 146.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -329,15 +329,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 8957,
+						"buffer_size": 9103,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								8957,
-								8957
+								11,
+								11
 							]
 						],
 						"settings":
@@ -346,10 +346,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2286.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -378,7 +378,7 @@
 						"translation.y": 1906.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 3,
 					"type": "text"
 				},
 				{
@@ -394,8 +394,8 @@
 						"selection":
 						[
 							[
-								2419,
-								2419
+								2595,
+								2595
 							]
 						],
 						"settings":
@@ -404,10 +404,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 2666.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
