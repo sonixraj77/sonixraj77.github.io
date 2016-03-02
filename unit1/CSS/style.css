@@ -1,18 +1,18 @@
 * { margin:0; padding:0; box-sizing:border-box; }
 body {
-	background: url("../images/backgroundflowersimage.jpg");
+	background:  #BFBDCA;
 	background-size: cover;
 	text-align: center;
-	font-size:16px;
-	font-family:arial, helvetica, sans-serif;
+	font-size: 16px;
+	font-family: arial, helvetica, sans-serif;
 }
 
 h1 {
-	color: #041530;
+	color: white;
 	font-family:'Philosopher', sans-serif;
 	font-size: 2em;
-	border-bottom: medium solid blue;
-	margin: 0.5em .5em 0 .5em;
+	border-bottom: medium solid black;
+	padding: 1em;
 }
 
 h2 {
@@ -23,20 +23,28 @@ h2 {
 	margin: 0em 2em 1.5em 2em;
 }
 
+
+h3 {
+	color: #041730;
+	font-family:'Philosopher', sans-serif; 
+	font-size: 1.5em;
+	font-weight: 2em;
+	margin: .5em;
+}
+
+#header {
+	background: url("../images/backgroundflowersimage.jpg"); 
+}
+
 .description {  
 	text-align: center;
 	font-size: 1.25em;
 	font-weight: bold;
 	line-height: 2.5em;
 	font-family:'Philosopher', sans-serif;
-	background: #E89DCA;
 	color: #041730;
+	padding-bottom: .5em;
 }
-
-.description a {
-	text-align: left;
-	padding: 1.5em 0em;
-	}
 
 #about h2 {
 	text-align: left;
@@ -61,17 +69,22 @@ a {
 }
 
 nav a {
-		background-color: #2bdeff;
-		padding: 0 1.5em;
-		border: medium solid black;
-		text-decoration: none;
+	text-align: left;
+	margin: 1.5em; 
+	text-decoration: none;
+	display: block;
 	}
 
 p {
-	padding: 0em;
 	font-weight: medium;
-}
+	background-color: #E89DCA;
+	margin: 2.5em;
+	}
 
+ul {
+	background-color: #E89DCA;
+	margin: 2.5em;
+}
 
 @media only screen and (max-width: 500px) {
 
