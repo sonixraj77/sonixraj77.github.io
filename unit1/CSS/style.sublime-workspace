@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"h",
+				"h3	Tag"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"fo",
+				"footer	Tag"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"p",
+				"padding"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
 				"m",
 				"margin"
 			],
@@ -40,10 +64,6 @@
 				"type	Attr"
 			],
 			[
-				"p",
-				"padding-left"
-			],
-			[
 				"co",
 				"color"
 			],
@@ -68,14 +88,6 @@
 				"display"
 			],
 			[
-				"h",
-				"h3	Tag"
-			],
-			[
-				"fo",
-				"font-size"
-			],
-			[
 				"c",
 				"color"
 			],
@@ -90,10 +102,6 @@
 			[
 				"v",
 				"var"
-			],
-			[
-				"in",
-				"input"
 			],
 			[
 				"bac",
@@ -172,26 +180,26 @@
 	"buffers":
 	[
 		{
-			"file": "style.css",
+			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia's famliy website/index.html",
 			"settings":
 			{
-				"buffer_size": 1693,
+				"buffer_size": 2462,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/unit1/index.html",
+			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia's famliy website/gallery.html",
 			"settings":
 			{
-				"buffer_size": 2722,
+				"buffer_size": 5271,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/redesign.html",
+			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia's famliy website/blog.html",
 			"settings":
 			{
-				"buffer_size": 7458,
+				"buffer_size": 3870,
 				"line_ending": "Windows"
 			}
 		}
@@ -228,17 +236,18 @@
 	},
 	"file_history":
 	[
-		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/index.html",
-		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/redesign.html",
+		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/unit1/index.html",
+		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia's famliy website/blog.html",
+		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia Photography website/soniaphotographygallery.html",
+		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia Photography website/soniaphotographyindex.html",
 		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/unit1/CSS/style.css",
+		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/redesign.html",
+		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/index.html",
 		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/unit1/about-1.html",
 		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/unit1/blog-1.html",
 		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/unit1/gallery-1.html",
 		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia Photography website/CSS/soniaphotographystylesheet.css",
-		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia Photography website/soniaphotographygallery.html",
-		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia Photography website/soniaphotographyindex.html",
 		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/trial.html",
-		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/unit1/index.html",
 		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/CSS/styletrial.css",
 		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/CSS/style.css",
 		"/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/uxdesign.html",
@@ -297,94 +306,91 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "style.css",
+					"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia's famliy website/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1693,
+						"buffer_size": 2462,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								70,
-								70
+								1107,
+								1107
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/unit1/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2722,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								2712,
-								2712
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 706.0,
+						"translation.y": 280.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/GA Pre-interview assignments/redesign.html",
+					"buffer": 1,
+					"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia's famliy website/gallery.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7458,
+						"buffer_size": 5271,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7347,
-								7458
+								1107,
+								709
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 1926.0,
+						"translation.y": 300.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/Sonia's famliy website/blog.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2767,
+								2767
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 466.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
