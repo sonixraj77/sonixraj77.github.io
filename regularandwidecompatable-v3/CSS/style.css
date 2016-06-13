@@ -454,7 +454,7 @@ p {
 	font-weight: .2em;
 	line-height: 2em;
 	text-align:left;
-	padding: 1em 1em .75em .75em;
+	padding: .75em .75em .75em .75em;
 
 }
 
@@ -542,6 +542,7 @@ footer {
 		text-align: center;
 		font-size: 60%;
 		line-height:1.6875;
+
 	}
 
 	ul {

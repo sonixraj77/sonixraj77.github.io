@@ -195,7 +195,7 @@
 			"file": "/H/regularandwidecompatable-v3/CSS/style.css",
 			"settings":
 			{
-				"buffer_size": 7951,
+				"buffer_size": 7955,
 				"line_ending": "Windows"
 			}
 		},
@@ -339,15 +339,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7951,
+						"buffer_size": 7955,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								6506,
+								6506
 							]
 						],
 						"settings":
@@ -356,7 +356,7 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 13942.0,
+						"translation.y": 12437.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
