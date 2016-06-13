@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"a",
+				"auto"
+			],
+			[
 				"tex",
 				"text-align"
 			],
@@ -140,10 +144,6 @@
 				"background-color"
 			],
 			[
-				"a",
-				"text-align"
-			],
-			[
 				"backgr",
 				"background-color"
 			],
@@ -192,27 +192,11 @@
 	"buffers":
 	[
 		{
-			"file": "/H/regularandwidecompatable-v3/CSS/style.css",
+			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/regularandwidecompatable-v3/CSS/style.css",
 			"settings":
 			{
-				"buffer_size": 7955,
+				"buffer_size": 7986,
 				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "/H/regularandwidecompatable-v3/mindmagic.html",
-			"settings":
-			{
-				"buffer_size": 5808,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/H/regularandwidecompatable-v3/brightwheelpage.html",
-			"settings":
-			{
-				"buffer_size": 6256,
-				"line_ending": "Unix"
 			}
 		}
 	],
@@ -248,9 +232,11 @@
 	},
 	"file_history":
 	[
+		"/H/regularandwidecompatable-v3/brightwheelpage.html",
+		"/H/regularandwidecompatable-v3/mindmagic.html",
+		"/H/regularandwidecompatable-v3/CSS/style.css",
 		"/C/Users/Sonia/Desktop/Sonia's Design Portfolio copy-1/index.html",
 		"/H/regularandwidecompatable-v2/CSS/style.css",
-		"/H/regularandwidecompatable-v3/mindmagic.html",
 		"/C/Users/Sonia/Desktop/Sonia's Design Portfolio copy-1/CSS/style.css",
 		"/C/Users/Sonia/Desktop/Sonia's Design Portfolio copy-1/mindmagic.html",
 		"/H/Sonia's Design Portfolio MASTER - Copy/CSS/style.css",
@@ -335,89 +321,30 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/H/regularandwidecompatable-v3/CSS/style.css",
+					"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/regularandwidecompatable-v3/CSS/style.css",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7955,
+						"buffer_size": 7986,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								6506,
-								6506
+								7556,
+								7556
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 12437.0,
+						"translation.y": 14782.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "/H/regularandwidecompatable-v3/mindmagic.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5808,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 1895.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/H/regularandwidecompatable-v3/brightwheelpage.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 6256,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 3330.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
 					"type": "text"
 				}
 			]

@@ -542,7 +542,8 @@ footer {
 		text-align: center;
 		font-size: 60%;
 		line-height:1.6875;
-
+		width: 100%;
+		height: auto;
 	}
 
 	ul {
