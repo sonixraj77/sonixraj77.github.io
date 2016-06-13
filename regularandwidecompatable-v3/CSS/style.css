@@ -542,8 +542,6 @@ footer {
 		text-align: center;
 		font-size: 60%;
 		line-height:1.6875;
-		width: 100%;
-		height: auto;
 	}
 
 	ul {
@@ -569,12 +567,8 @@ footer {
 		display: block;
 }
 
-#projects {
-	max-width: 1200px;
-}
-
 #projects img {
-	width: 33.33%;
+	width: 65%;
 	height: auto;
 }
 

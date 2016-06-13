@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"ma",
+				"max-width"
+			],
+			[
 				"a",
 				"auto"
 			],
@@ -54,10 +58,6 @@
 			[
 				"fo",
 				"font-size"
-			],
-			[
-				"ma",
-				"margin"
 			],
 			[
 				"pa",
@@ -195,7 +195,7 @@
 			"file": "/C/Users/Sonia/Desktop/Sonias- GA website project/sonixraj77.github.io/regularandwidecompatable-v3/CSS/style.css",
 			"settings":
 			{
-				"buffer_size": 7986,
+				"buffer_size": 7955,
 				"line_ending": "Windows"
 			}
 		}
@@ -325,15 +325,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7986,
+						"buffer_size": 7955,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								7556,
-								7556
+								7929,
+								7929
 							]
 						],
 						"settings":
@@ -341,7 +341,7 @@
 							"syntax": "Packages/CSS/CSS.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 14782.0,
+						"translation.y": 15662.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
