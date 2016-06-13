@@ -195,7 +195,7 @@
 			"file": "/H/regularandwidecompatable-v3/CSS/style.css",
 			"settings":
 			{
-				"buffer_size": 7812,
+				"buffer_size": 7951,
 				"line_ending": "Windows"
 			}
 		},
@@ -203,7 +203,7 @@
 			"file": "/H/regularandwidecompatable-v3/mindmagic.html",
 			"settings":
 			{
-				"buffer_size": 5819,
+				"buffer_size": 5808,
 				"line_ending": "Unix"
 			}
 		},
@@ -211,7 +211,7 @@
 			"file": "/H/regularandwidecompatable-v3/brightwheelpage.html",
 			"settings":
 			{
-				"buffer_size": 6102,
+				"buffer_size": 6256,
 				"line_ending": "Unix"
 			}
 		}
@@ -330,7 +330,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -339,15 +339,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 7812,
+						"buffer_size": 7951,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2711,
-								2711
+								0,
+								0
 							]
 						],
 						"settings":
@@ -356,10 +356,10 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 4955.0,
+						"translation.y": 13942.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -368,15 +368,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 5819,
+						"buffer_size": 5808,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2707,
-								2707
+								0,
+								0
 							]
 						],
 						"settings":
@@ -388,7 +388,7 @@
 						"translation.y": 1895.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -397,15 +397,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 6102,
+						"buffer_size": 6256,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4533,
-								4533
+								0,
+								0
 							]
 						],
 						"settings":
