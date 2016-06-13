@@ -569,8 +569,12 @@ footer {
 		display: block;
 }
 
+#projects {
+	max-width: 1200px;
+}
+
 #projects img {
-	width: 75%;
+	width: 33.33%;
 	height: auto;
 }
 
