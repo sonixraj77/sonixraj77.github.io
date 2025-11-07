@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Smart Task Sorter</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="app-header">
+    <h1>Smart Task Sorter</h1>
+    <p>Drop in anything on your mind and we will sort it into House, Kitchen, or Study &amp; Job Search lists for you.</p>
+  </header>
+
+  <main class="app">
+    <section class="input-panel">
+      <h2>Add a task</h2>
+      <form id="task-form" class="task-form">
+        <label class="field-label" for="task-input">What do you need to do?</label>
+        <div class="field-group">
+          <input id="task-input" class="task-input" type="text" placeholder="e.g. Clean the living room" required />
+          <button type="submit" class="primary-btn">Add</button>
+        </div>
+      </form>
+      <div class="helper-text">
+        <p>
+          The sorter looks for keywords such as <strong>laundry, vacuum, dishes, cook, resume, interview</strong> and more.
+          If it cannot guess the task type, you can nudge it with the quick-tag buttons below.
+        </p>
+        <div class="suggestion-tags" aria-label="Quick keywords">
+          <button type="button" data-keyword="vacuum">vacuum</button>
+          <button type="button" data-keyword="meal prep">meal prep</button>
+          <button type="button" data-keyword="grocery">grocery</button>
+          <button type="button" data-keyword="update resume">update resume</button>
+          <button type="button" data-keyword="interview practice">interview practice</button>
+        </div>
+      </div>
+    </section>
+
+    <section class="board" aria-live="polite">
+      <article class="column" data-category="house">
+        <header>
+          <h2>🏠 House</h2>
+          <p class="column-subtitle">Cleaning, maintenance, finances &amp; anything home related.</p>
+        </header>
+        <ul class="task-list" id="house-list"></ul>
+      </article>
+
+      <article class="column" data-category="kitchen">
+        <header>
+          <h2>🍳 Kitchen &amp; Cooking</h2>
+          <p class="column-subtitle">Meal prep, groceries, cooking ideas &amp; chores.</p>
+        </header>
+        <ul class="task-list" id="kitchen-list"></ul>
+      </article>
+
+      <article class="column" data-category="study">
+        <header>
+          <h2>🧠 Study &amp; Job Search</h2>
+          <p class="column-subtitle">Courses, applications, networking, interview prep and more.</p>
+        </header>
+        <ul class="task-list" id="study-list"></ul>
+      </article>
+    </section>
+  </main>
+
+  <template id="task-template">
+    <li class="task-item">
+      <span class="task-text"></span>
+      <div class="task-actions">
+        <button type="button" class="reclassify-btn" aria-haspopup="true">Move</button>
+        <button type="button" class="remove-btn" aria-label="Remove task">✕</button>
+        <div class="reclassify-menu" role="menu">
+          <button type="button" data-category="house">Move to House</button>
+          <button type="button" data-category="kitchen">Move to Kitchen</button>
+          <button type="button" data-category="study">Move to Study &amp; Job Search</button>
+        </div>
+      </div>
+    </li>
+  </template>
+
+  <script src="app.js"></script>
+</body>
+</html>
