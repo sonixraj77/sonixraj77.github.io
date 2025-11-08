@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Calendar Quick Add</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <main class="app">
+    <header>
+      <h1>Calendar Quick Add</h1>
+      <p class="subtitle">
+        Type a natural-language description of your event – including the day and time –
+        and add it to Google Calendar with a single click. You can also review the events
+        already scheduled for the selected day.
+      </p>
+    </header>
+
+    <section class="card auth">
+      <h2>Connect your Google Calendar</h2>
+      <p>
+        Sign in with the Google account whose calendar you want to manage.
+      </p>
+      <div class="button-row">
+        <button id="authorize_button" class="primary">Sign in with Google</button>
+        <button id="signout_button" class="secondary" hidden>Sign out</button>
+      </div>
+      <p id="auth_status" class="helper-text"></p>
+    </section>
+
+    <section class="card quick-add">
+      <h2>Quick-add an event</h2>
+      <label for="event_text" class="field-label">Event message</label>
+      <textarea id="event_text" rows="3" placeholder="E.g. 'Coffee with Lee tomorrow at 9am at Blue Bottle'" disabled></textarea>
+      <button id="quick_add_button" class="primary" disabled>Add to calendar</button>
+      <p id="quick_add_status" class="helper-text" role="status" aria-live="polite"></p>
+    </section>
+
+    <section class="card upcoming">
+      <div class="section-header">
+        <h2>Events on a specific day</h2>
+        <div class="date-picker">
+          <label for="event_date" class="field-label">Choose a day</label>
+          <input type="date" id="event_date" disabled />
+        </div>
+      </div>
+      <button id="refresh_button" class="secondary" disabled>Refresh events</button>
+      <ul id="events_list" class="events-list" aria-live="polite"></ul>
+    </section>
+
+    <section class="card help">
+      <h2>Getting started</h2>
+      <p>
+        This page uses the Google Calendar API. Before it can add or read events,
+        you need to create OAuth credentials in the Google Cloud Console and enable the
+        Calendar API for your project.
+      </p>
+      <details>
+        <summary>Configure Google Cloud credentials</summary>
+        <ol>
+          <li>Visit <a href="https://console.cloud.google.com/apis/dashboard" target="_blank" rel="noopener">Google Cloud Console</a>.</li>
+          <li>Create (or select) a project and enable the <strong>Google Calendar API</strong>.</li>
+          <li>Generate an <strong>OAuth client ID</strong> for a web application and add <code>http://localhost</code> (or your deployment URL) to the list of authorized origins.</li>
+          <li>Create an <strong>API key</strong> for the same project.</li>
+          <li>Replace the <code>CLIENT_ID</code> and <code>API_KEY</code> placeholders in <code>script.js</code> with your credentials.</li>
+        </ol>
+        <p class="helper-text">
+          Never commit real credentials to version control. For production use,
+          consider loading them from environment variables or a secure vault.
+        </p>
+      </details>
+      <p>
+        After you sign in, type a message that includes the event date and time. The app
+        uses Google Calendar's Quick Add feature to interpret the text.
+      </p>
+    </section>
+  </main>
+
+  <script src="https://apis.google.com/js/api.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
